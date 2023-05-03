@@ -1,0 +1,33 @@
+body {
+	background-color: #4B0082;
+	color: #fff;
+	text-align: center;
+  margin-top: 10%;
+}
+h1 {
+	font-family: "Times New Roman", Times, serif;@font-face
+}
+
+.botoes {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin-top: 20px;
+}
+
+.saiba-mais, .em-breve {
+	display: inline-block;
+	background-color: #fff;
+	color: #4B0082;
+	padding: 10px 20px;
+	border-radius: 25px;
+	margin-left: 10px;
+	margin-right: 10px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.em-breve {
+	background-color: #8a5daa;
+	color: #fff;
+}
