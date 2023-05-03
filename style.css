@@ -2,11 +2,14 @@ body {
 	background-color: #4B0082;
 	color: #fff;
 	text-align: center;
-  margin-top: 10%;
+  margin-top: 20%;
 }
 h1 {
 	font-family: "Times New Roman", Times, serif;@font-face
 }
+
+img {margin-bottom: %;}
+
 
 .botoes {
 	display: flex;
