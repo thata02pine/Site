@@ -4,11 +4,10 @@ body {
 	text-align: center;
   margin-top: 20%;
 }
-h1 {
-	font-family: "Times New Roman", Times, serif;@font-face
-}
 
-img {margin-bottom: %;}
+img {
+  margin-bottom: %;
+  }
 
 
 .botoes {
@@ -33,4 +32,11 @@ img {margin-bottom: %;}
 .em-breve {
 	background-color: #8a5daa;
 	color: #fff;
+}
+
+footer {
+text-align: center;
+position: fixed;
+width: 100%;
+bottom: 0;
 }
