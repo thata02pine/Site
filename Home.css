@@ -26,14 +26,27 @@ header h1 {
 
 }
 
+p {
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+
+
 h2 {color: rgb(55, 4, 138);}
 
 h3 {
   color: rgb(132, 44, 233);
   }
+
+
+
 article img {
-  max-width: 50%;
+  max-width:60%;
   height: auto;
+  margin-top: 2%;
+  text-align: center;
 }
 nav ul {
   list-style-type: none;
