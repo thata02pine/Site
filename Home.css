@@ -27,26 +27,25 @@ header h1 {
 }
 
 p {
-  border-bottom: 2px solid #ccc;
-  padding-bottom: 10px;
-  margin-bottom: 10px;
+ 
 }
 
 
 
-h2 {color: rgb(55, 4, 138);}
+h2 {
+  color: rgb(55, 4, 138);}
 
 h3 {
   color: rgb(132, 44, 233);
   }
 
 
-
 article img {
-  max-width:60%;
+  max-width:40%;
   height: auto;
   margin-top: 2%;
   text-align: center;
+  
 }
 nav ul {
   list-style-type: none;
@@ -79,6 +78,8 @@ article h3 {
   font-size: 18px;
   margin-bottom: 5px;
 }
+
+
 
 footer {
   background-color: rgba(81, 11, 90, 0);
