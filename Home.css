@@ -26,9 +26,9 @@ header h1 {
 
 }
 
-p {
- 
-}
+  p { margin-top: 15px
+   
+  }
 
 
 
@@ -42,10 +42,8 @@ h3 {
 
 article img {
   max-width:40%;
-  height: auto;
   margin-top: 2%;
   text-align: center;
-  
 }
 nav ul {
   list-style-type: none;
