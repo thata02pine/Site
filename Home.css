@@ -85,3 +85,26 @@ footer {
   padding: 10px;
   text-align: center;
 }
+
+.align{
+
+}
+
+.container {
+       height: 100%;
+   }
+
+  .op1 {
+       
+       display: inline-block;
+       font-size: 30px;
+       text-align: center;
+       
+   }
+
+   .op2 {
+       display: inline-block;
+      
+       font-size: 17px;
+       text-align: center;
+   }
