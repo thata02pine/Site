@@ -9,7 +9,7 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.5;
    background-color: rgb(255, 255, 255);
- 
+  
 }
 
 header {
@@ -26,24 +26,26 @@ header h1 {
 
 }
 
-  p { margin-top: 15px
-   
-  }
-
+section {
+  margin: 20px;
+  inset-block: ;
+}
 
 
 h2 {
-  color: rgb(55, 4, 138);}
+  color: rgb(55, 4, 138);
+  }
 
 h3 {
   color: rgb(132, 44, 233);
+  font-size: 25px;
   }
 
 
 article img {
   max-width:40%;
   margin-top: 2%;
-  text-align: center;
+ 
 }
 nav ul {
   list-style-type: none;
@@ -86,9 +88,6 @@ footer {
   text-align: center;
 }
 
-.align{
-
-}
 
 .container {
        height: 100%;
@@ -100,11 +99,13 @@ footer {
        font-size: 30px;
        text-align: center;
        
+       
    }
 
    .op2 {
+      margin-top: 50px;
+      margin-left: 20px;
        display: inline-block;
-      
-       font-size: 17px;
-       text-align: center;
+       font-size: 22px;
+       vertical-align: top;
    }
