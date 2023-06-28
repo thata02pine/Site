@@ -8,29 +8,18 @@
 body {
   font-family: Arial, sans-serif;
   line-height: 1.5;
-   background-color: rgb(255, 255, 255);
+  background-color: rgb(255, 255, 255);
   
 }
 
 header {
   background-color: #351342;
   color: #fff;
-  padding: 20px;
+  padding: 30px;
   text-align: center;
+  font-size: 20px;
   
 }
-
-header h1 {
-  font-size: 24px;
-  margin-bottom: 10px;
-
-}
-
-section {
-  margin: 20px;
-  inset-block: ;
-}
-
 
 h2 {
   color: rgb(55, 4, 138);
@@ -39,14 +28,11 @@ h2 {
 h3 {
   color: rgb(132, 44, 233);
   font-size: 25px;
+  margin-bottom: 10px;
   }
 
 
-article img {
-  max-width:40%;
-  margin-top: 2%;
- 
-}
+
 nav ul {
   list-style-type: none;
 }
@@ -63,30 +49,10 @@ nav ul li a {
 
 section {
   padding: 20px;
-}
-
-section h2 {
-  font-size: 20px;
-  margin-bottom: 10px;
-}
-
-article {
-  margin-bottom: 20px;
-}
-
-article h3 {
-  font-size: 18px;
-  margin-bottom: 5px;
+  margin-left: 90px;
 }
 
 
-
-footer {
-  background-color: rgba(81, 11, 90, 0);
-  color: rgb(10, 0, 0);
-  padding: 10px;
-  text-align: center;
-}
 
 
 .container {
@@ -98,15 +64,23 @@ footer {
        display: inline-block;
        font-size: 30px;
        text-align: center;
-       
+       margin-bottom: 70px;
+       max-width:40%;
        
    }
 
    .op2 {
-      margin-top: 45px;
+      margin-top: 50px;
       margin-left: 15px;
       display: inline-block;
-      font-size: 15px;
+      font-size: 20px;
       vertical-align: top;
       
    }
+
+   footer {
+  background-color: rgba(81, 11, 90, 0);
+  color: rgb(10, 0, 0);
+  padding: 10px;
+  text-align: center;
+}
